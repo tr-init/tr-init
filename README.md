@@ -1,7 +1,7 @@
 ## Talofa! 👋
 
-- 🔭 I’m currently working on creating a C++ VST Plug-in
-- 🌱 I’m currently learning React & c++
+- 🔭 I’m currently working on a web application for trading reagents across labs and institutions with FMHS (UoA).
+- 🌱 I’m currently learning Flask, Jinja2, SQLAlchemy and others!
 - 🎓 I'm in my 4th year of a Bachelor of Music/Bachelor of Science conjoint
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play the cello!
